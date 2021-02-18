@@ -1,4 +1,4 @@
-.pageheader {
+.pageHeader {
     display: flex;
     justify-content: center;
 }
@@ -6,9 +6,12 @@
 .list {
     display: flex;
     flex-wrap: wrap;
+    width: 50%;
     justify-content: space-around;
+    margin-left: 350px;
+
 }
 
 .shop {
-
+    border-style: double;
 }
